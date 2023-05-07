@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # NPC-Framework (Narrative Personal Character Framework)
 
 Hey Adim Arcade Guild Members! 🎉 Get ready to dive into the world of NPC-Framework, a powerful tool that allows you to create, load, save, and upload character personas for chatbots in a Discord server. Built on top of Langchain, this framework makes it easy for anyone to create unique and engaging chatbot experiences, no coding experience required!
